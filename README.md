@@ -1,5 +1,5 @@
 **About Dataset:**
-The dataset appears to be a structured collection of information about Nobel Prize laureates and awards, encompassing diverse aspects of the laureates' biographical details, award categories, prize amounts, and motivations. The data is rich and multidimensional, allowing for both quantitative and qualitative analysis.
+The dataset is a structured collection of information about Nobel Prize laureates and awards, encompassing diverse aspects of the laureates' biographical details, award categories, prize amounts, and motivations. The data is rich and multidimensional, allowing for both quantitative and qualitative analysis.
 
 **Objective:**
 The objective of this dashboard is to provide a comprehensive visualization of Nobel Prize data, enabling users to explore trends, distributions, and insights into awardees, prize amounts, motivations, and geographic or demographic patterns. It offers an interactive tool for analyzing historical and contemporary Nobel Prize information, helping users identify key patterns and derive actionable insights.
