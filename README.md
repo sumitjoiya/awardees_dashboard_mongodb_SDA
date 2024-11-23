@@ -41,15 +41,15 @@ Answer: The average adjusted prize amount for each motivation bar chart links mo
 **Managerial Implications of the Dashboard**
 This dashboard offers several valuable insights that managers and decision-makers can use for strategic planning, policy formulation, and driving organizational or societal initiatives. Some of the key managerial implications are as follow:
 
-1. Promoting Diversity and Inclusion
+**1. Promoting Diversity and Inclusion**
 Insight: The gender-wise breakdown of awardees highlights disparities in Nobel Prize recognition.
 Implication: Organizations, institutions, and governments can use this data to design policies and programs aimed at increasing gender representation in various fields, especially in STEM (Science, Technology, Engineering, Mathematics) and other underrepresented categories.
-2. Strategic Allocation of Resources
+**2. Strategic Allocation of Resources**
 Insight: The adjusted prize amount across different years and categories provides a view of financial trends in rewarding excellence.
 Implication: Institutions or funding bodies can benchmark their own grants, scholarships, or awards against Nobel Prize trends to remain competitive and attractive to top talent in academia, research, or humanitarian work.
-3. Regional and Cultural Contributions
+**3. Regional and Cultural Contributions**
 Insight: Geographical and continent-wise data on laureates and prize distribution highlight the regions that have excelled or lagged.
 Implication: Policymakers and academic leaders can prioritize investments in education, research, and innovation in underrepresented regions to enhance their global contribution and recognition.
-4. Motivation Analysis for Recognizing Excellence
+**4. Motivation Analysis for Recognizing Excellence**
 Insight: The analysis of motivations linked to Nobel Prizes reveals recurring themes such as contributions to peace, science, or humanitarian causes.
 Implication: Managers can draw inspiration to craft motivation-based incentives, such as recognition for exceptional innovation, leadership, or societal impact. This approach fosters a culture of excellence in organizations.
