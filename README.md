@@ -9,6 +9,7 @@ The objective of this dashboard is to provide a comprehensive visualization of N
 ---
 
 ## Key Problems Addressed and Solved by the Dashboard
+![awardees](https://github.com/user-attachments/assets/7d739d6a-4b3a-489a-801a-4be3d18e3dae)
 
 ### General Trends and Statistics
 - **Question:** How many individuals or entities have been awarded the Nobel Prize since its inception?  
