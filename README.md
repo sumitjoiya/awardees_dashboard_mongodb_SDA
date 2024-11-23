@@ -5,6 +5,8 @@ The dataset is a structured collection of information about Nobel Prize laureate
 The objective of this dashboard is to provide a comprehensive visualization of Nobel Prize data, enabling users to explore trends, distributions, and insights into awardees, prize amounts, motivations, and geographic or demographic patterns. It offers an interactive tool for analyzing historical and contemporary Nobel Prize information, helping users identify key patterns and derive actionable insights.
 
 **Key Problems Addressed and Solved by the Dashboard**
+![awardees](https://github.com/user-attachments/assets/07de5dfb-b013-431d-a91c-5a1fc78af651)
+
 
 General Trends and Statistics:
 Question: How many individuals or entities have been awarded the Nobel Prize since its inception?
