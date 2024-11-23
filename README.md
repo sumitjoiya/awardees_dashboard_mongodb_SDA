@@ -8,7 +8,7 @@ The objective of this dashboard is to provide a comprehensive visualization of N
 ![awardees](https://github.com/user-attachments/assets/07de5dfb-b013-431d-a91c-5a1fc78af651)
 
 
-General Trends and Statistics:
+**General Trends and Statistics:**
 Question: How many individuals or entities have been awarded the Nobel Prize since its inception?
 Answer: The dashboard provides the total number of awardees and total Nobel Prize awardees, giving a quick overview of the magnitude of recipients.
 Question: What is the average adjusted prize amount over the years?
@@ -16,7 +16,7 @@ Answer: The dashboard calculates the average adjusted prize amount, offering a s
 Question: How many unique motivations have been recorded for awarding the Nobel Prize?
 Answer: The dashboard identifies types of motivations, showcasing the diversity of contributions that have been recognized.
 
-Demographic and Geographic Patterns:
+**Demographic and Geographic Patterns:**
 Question: What is the gender distribution of Nobel Prize awardees?
 Answer: The gender-wise number of awardees visual clearly shows the disparities between genders in receiving Nobel Prizes.
 Question: Which continents contribute the most to Nobel laureates?
@@ -24,7 +24,7 @@ Answer: The number of awardees from each continent highlights the geographic reg
 Question: How is the Nobel Prize amount distributed across different locations?
 Answer: The map visualization provides a geographical breakdown of prize amounts, revealing location-based trends in monetary awards.
 
-Category and Discipline Insights:
+**Category and Discipline Insights:**
 Question: How has the adjusted prize amount varied across different years?
 Answer: The adjusted prize amount across years graph shows fluctuations and trends over time, enabling users to analyze the historical value of prizes.
 Question: What is the average adjusted prize amount for each category, differentiated by gender?
@@ -32,7 +32,7 @@ Answer: The category and gender-wise prize amount bar chart helps analyze the fi
 Question: What is the distribution of adjusted prize amounts across different Nobel categories?
 Answer: The bar chart for adjusted prize amounts by category visualizes how monetary awards are allocated among disciplines like Physics, Chemistry, Peace, etc.
 
-Motivational and Qualitative Analysis:
+**Motivational and Qualitative Analysis:**
 Question: What are the most common motivations for awarding the Nobel Prize?
 Answer: The count of prizes associated with specific motivations provides insights into the recurring themes or reasons for recognition.
 Question: How does the adjusted prize amount vary by motivation?
